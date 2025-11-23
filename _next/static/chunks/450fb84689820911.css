@@ -1,0 +1,1 @@
+.gallery-3d{perspective:1200px}.img-card{transform-style:preserve-3d;transition:transform .6s,box-shadow .3s}.img-card:hover{transform:rotateY(20deg)rotateX(10deg)scale(1.05);box-shadow:0 15px 30px #00000040}
